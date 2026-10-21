@@ -1,0 +1,3 @@
+[mcp_servers.zotero-local]
+command = "uv"
+args = ["run", "--directory", "C:\\DEV\\MCP_Zotero_LLM", "zotero-local-mcp"]

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "zotero-local": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--directory", "C:\\DEV\\MCP_Zotero_LLM", "zotero-local-mcp"]
+    }
+  }
+}
